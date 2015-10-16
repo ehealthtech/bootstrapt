@@ -1,6 +1,6 @@
 {
   "name": "bootstrapt",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A quick way to set up TAP reporting",
   "main": "lib/index.js",
   "scripts": {
