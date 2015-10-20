@@ -9,6 +9,6 @@ module.exports = function(test, Promise) {
         test.equal(1,1);
         test.notEqual(1,0);
 
-        test.equal(fixture.fixtureKey, 'withpromise', 'Fixture was correctly assigned');
+        test.equal(fixture.fixtureKey, 'withpromise', 'withpromise spec fixture was correctly assigned');
     });
 };
