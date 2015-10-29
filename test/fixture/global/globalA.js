@@ -1,5 +1,5 @@
 "use strict";
 
 module.exports = {
-    globalAKey: 'globalA'
+    globalAKey: 'globalAValue'
 };
